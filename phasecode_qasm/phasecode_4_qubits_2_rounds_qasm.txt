@@ -1,7 +1,3 @@
-#####################################################################
-# OpenQASM SupermarQ PhaseCode Benchmark (4 Qubits, 2 Rounds) #
-#####################################################################
---- OpenQASM 2.0 ---
 OPENQASM 2.0;
 include "qelib1.inc";
 qreg q[7];
