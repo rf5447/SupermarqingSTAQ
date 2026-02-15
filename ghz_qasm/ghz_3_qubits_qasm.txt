@@ -1,7 +1,3 @@
-###############################################
-# OpenQASM SupermarQ GHZ Benchmark (3 Qubits) #
-###############################################
---- OpenQASM 2.0 ---
 OPENQASM 2.0;
 include "qelib1.inc";
 qreg q[3];
